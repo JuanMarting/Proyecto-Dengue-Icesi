@@ -20,6 +20,7 @@ Validado con ventana rodante de 30 iteraciones con parada temprana.
 
 ## Estructura
 PROYECTO_GRADO/
+
 ├── data/               ←(.gitignore)
 
 ├── mc_barrios/         ← (.gitignore)
