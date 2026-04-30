@@ -20,9 +20,12 @@ Validado con ventana rodante de 30 iteraciones con parada temprana.
 
 ## Estructura
 PROYECTO_GRADO/
-├── data/               ← no incluido (.gitignore)
-├── mc_barrios/         ← no incluido (.gitignore)
-├── versionfinal.ipynb  ← notebook principal
+├── data/               ←(.gitignore)
+
+├── mc_barrios/         ← (.gitignore)
+
+├── versionfinal.ipynb
+
 └── xgb_feature_importance.csv
 
 
